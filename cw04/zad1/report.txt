@@ -1,0 +1,10 @@
+fork >>>
+    ignore: oba
+    handler: oba
+    mask: oba
+    pending: widoczny w rodzicu, ale nie w dziecku
+
+exec >>>
+    ignore: oba
+    mask: oba
+    pending: oba

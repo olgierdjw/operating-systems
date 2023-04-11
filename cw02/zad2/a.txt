@@ -1,0 +1,142 @@
+}
+;0 nruter    
+;)(dnEemit    
+;)"txt.b" ,emanelif(4201_daer        
+)++i ;stset < i ;0 = i tni( rof    
+;)(tratSemit    
+;)(dnEemit    
+;)"txt.a" ,emanelif(rahc_yb_rahc        
+)++i ;stset < i ;0 = i tni( rof    
+;)(tratSemit    
+;"c.niam" = ][emanelif rahc    
+;00001 = stset tni    
+{ )(niam tni
+
+}
+;)(emiTtnirp    
+;)upc_ne&(semit = emit_ne    
+{ )(dnEemit diov
+
+}
+;)upc_ts&(semit = emit_ts    
+{ )(tratSemit diov
+
+}
+;))emits_smt.upc_ts - emits_smt.upc_ne( )elbuod(           
+,)emitu_smt.upc_ts - emitu_smt.upc_ne( )elbuod(           
+,)emit_ts - emit_ne( )elbuod(           
+,"n\f% emiT metsyS ,f% emiT resU ,f% :emiT laeR"(ftnirp    
+{ )(emiTtnirp diov
+
+;upc_ne smt tcurts citats
+;upc_ts smt tcurts citats
+;emit_ne t_kcolc citats
+;emit_ts t_kcolc citats
+
+}
+
+;)daer_elif(esolcf    
+;)evas_elif(esolcf    
+;)ezis_enil(eerf    
+;)evas_ot(eerf    
+}    
+;))l + evas_ot(*(eerf        
+;)evas_elif ,)l + ezis_enil(* ,)rahc(foezis ,)l + evas_ot(*(etirwf        
+{ )--l ;0 => l ;1 - enil_tnerruc = l tni( rof    
+;)"+w" ,ot_evas(nepof = evas_elif* ELIF    
+
+}    
+;kaerb ))daer_elif(foef( fi        
+
+}        
+;rahc_der = )++i_rahc_ytpme + enil_gnidaer(*                
+enil_wen gnitsixe ot dneppa // esle }            
+;1 =+ enil_tnerruc                
+rofub teser // ;))rahc(foezis * ezis_kcolb(collam )* rahc( = enil_gnidaer                
+
+;0 = i_rahc_ytpme                
+;'n\' = )i_rahc_ytpme + enil_gnidaer(*                
+
+;)etator(eerf                
+
+;)y + etator(* = )1 - y - i_rahc_ytpme + enil_gnidaer(*                    
+)++y ;i_rahc_ytpme < y ;0 = y tni( rof                
+
+;)i + enil_gnidaer(* = )i + etator(*                    
+)++i ;i_rahc_ytpme < i ;0 = i tni( rof                
+;))rahc(foezis * ezis_kcolb(collam = etator* rahc                
+
+;enil_gnidaer = )enil_tnerruc + evas_ot(*                
+'n\' rof 1+ // ;1 + i_rahc_ytpme = )enil_tnerruc + ezis_enil(*                
+hsup enil_wen // { )'n\' == rahc_der( fi            
+
+;)xedni_rahc + kcolb_elif(* = rahc_der rahc            
+{ )++xedni_rahc ;ezis_kcolb < xedni_rahc ;0 = xedni_rahc tni( rof        
+
+;)daer_elif ,ezis_kcolb ,)rahc(foezis ,kcolb_elif(daerf        
+;)"DETAERC TON KCOLB ELIF"(ftnirp            
+)LLUN == kcolb_elif( fi        
+;))rahc(foezis * ezis_kcolb(collam = kcolb_elif* rahc        
+{ )1( elihw    
+;))rahc(foezis * 0002(collam )* rahc( = enil_gnidaer* rahc    
+
+
+;))tni(foezis * 0002(collam = ezis_enil* tni    
+;))* rahc(foezis ,0002(collac = evas_ot** rahc    
+;0 = i_rahc_ytpme tni    
+;0 = enil_tnerruc tni    
+
+}    
+;nruter        
+;)".TSIXE TON SEOD ELIF"(ftnirp        
+{ )LLUN == daer_elif( fi    
+;)"r" ,morf_daer(nepof = daer_elif* ELIF    
+;4201 = ezis_kcolb tni    
+{ )ot_evas* rahc ,morf_daer* rahc(4201_daer diov
+
+}
+
+;)evas_elif(esolcf    
+;)daer_elif(esolcf    
+;)enil_pmt(eerf    
+;)sezis(eerf    
+;)senil(eerf    
+}    
+;))l + senil(*(eerf        
+;)evas_elif ,)l + sezis(* ,)rahc(foezis ,)l + senil(*(etirwf        
+{ )--l ;0 => l ;1 - xedni_enil_eerf = l tni( rof    
+;)"+w" ,ot_evas(nepof = evas_elif* ELIF    
+}    
+;rahc_der = )++i + enil_pmt(*        
+}        
+;eunitnoc            
+;0 = i            
+;'n\' = )i + enil_desrever(*            
+;]y[enil_pmt = )1 - y - i + enil_desrever(*                
+)++y ;i < y ;0 = y tni( rof            
+;enil_desrever = )++xedni_enil_eerf + senil(*            
+;1 + i = )xedni_enil_eerf + sezis(*            
+;))rahc(foezis * )1 + i((collam )* rahc( = enil_desrever* rahc            
+{ )'n\' == rahc_der( fi        
+
+;kaerb ))daer_elif(foef( fi        
+;)daer_elif ,1 ,1 ,rahc_der&(daerf        
+;rahc_der rahc        
+{ )1( elihw    
+;))rahc(foezis * 0001(collam )* rahc( = enil_pmt* rahc    
+;0 = i tni    
+
+;))tni(foezis ,0001(collac = sezis* tni    
+;))* rahc(foezis ,0001(collac = senil** rahc    
+;0 = xedni_enil_eerf tni    
+
+}    
+;nruter        
+;)".TSIXE TON SEOD ELIF"(ftnirp        
+{ )LLUN == daer_elif( fi    
+;)"r" ,morf_daer(nepof = daer_elif* ELIF    
+{ )ot_evas* rahc ,morf_daer* rahc(rahc_yb_rahc diov
+
+>h.semit/sys< edulcni#
+>h.bildts< edulcni#
+>h.oidts< edulcni#

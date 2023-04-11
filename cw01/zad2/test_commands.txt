@@ -1,0 +1,5 @@
+init 100
+count text1.txt
+delete 1
+destroy
+exit

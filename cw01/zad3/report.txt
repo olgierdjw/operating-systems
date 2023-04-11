@@ -1,0 +1,11 @@
+Raport zadania 3A i 3B:
+Plik 'test_commands.txt' zawiera komendy poddane pomiarowi czasu.
+Zakładając pomiary na plikach plików laboratorium, operacje wykonywane z dużą ilością powtórzeń nie dają wyników większych niż zero.
+
+
+W celu jasnego wykazania zależności pomiędzy rodzajami bibliotek wykorzystałem większy plik.
+(te same wyniki można uzyskać przez dodanie lini
+count big.txt
+w pliku 'test_commands.txt').
+Przędność biblioteki static jest większa od shared, a ta od dll.
+Jasno widać, że spośród mierzonych flag -O1, -O2, -O3, to właśnie -O1 jest najszybsza.
