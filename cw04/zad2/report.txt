@@ -1,0 +1,8 @@
+ONESHOT >>>
+    sygnały dostarczone wielokrotnie wykonane zostaną tylko raz
+
+SIGINFO >>>
+    dostarcza dodatkowe informacje o procesie
+
+RESETHAND >>>
+    handler zostaje jednorazowy

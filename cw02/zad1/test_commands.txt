@@ -1,0 +1,3 @@
+change1 A B big.txt output_lib_version.txt
+change2 A B big.txt output_sys_version.txt
+exit

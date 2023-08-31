@@ -1,0 +1,30 @@
+5 0.0000000100
+real time: 4.130000s
+user time: 0.000000s
+system time: 0.000000s
+RESULT: 3.141593
+
+10 0.0000000100
+real time: 4.130000s
+user time: 0.000000s
+system time: 0.000000s
+RESULT: 3.141593
+
+1 0.0000000010
+real time: 42.000000s
+user time: 0.000000s
+system time: 0.000000s
+RESULT: 3.141593
+
+5 0.0000000010
+real time: 43.400000s
+user time: 0.000000s
+system time: 0.000000s
+RESULT: 3.141593
+
+10 0.0000000010
+real time: 43.620000s
+user time: 0.000000s
+system time: 0.000000s
+RESULT: 3.141593
+

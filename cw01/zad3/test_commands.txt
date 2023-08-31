@@ -1,0 +1,5 @@
+init 30
+count main.c
+delete 0
+destroy
+exit
